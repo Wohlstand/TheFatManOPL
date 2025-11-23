@@ -230,7 +230,7 @@ int main(int argc, char **argv)
         bank = &wopl->banks_percussive[b];
         printf("== Percussion bank #%u (Name=%s, LSB=%u, MSB=%u) ==\n", b, bank->bank_name, bank->bank_midi_msb, bank->bank_midi_lsb);
         for(i = 0; i < 127; ++i)
-            dump_instrument(&bank->ins[i], i, 0);
+            dump_instrument(&bank->ins[i], i, 1);
 
         printf("\n\n");
     }
