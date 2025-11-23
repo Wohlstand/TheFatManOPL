@@ -880,7 +880,7 @@ INS=31: -- Blank instrument --
 INS=32: -- Blank instrument --
 INS=33: -- Blank instrument --
 INS=34: -- Blank instrument --
-INS=35: NoteOff1=0 PercKey=35 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=35: NoteOff1=0 PercKey=35 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 3 Sustain= 0 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 8 Sustain= 7 Release= 7 KSL=1 TL= 4 AM=0 VIB=0 EG=0 KSR=1 FMult= 0 WaveForm=2]
 

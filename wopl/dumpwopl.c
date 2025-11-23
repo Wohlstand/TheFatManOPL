@@ -78,7 +78,7 @@ static void dump_instrument(const WOPLInstrument *inst, uint16_t i, int is_drum)
     {
         printf(" FB=%u", (inst->fb_conn1_C0 >> 1) & 0x07);
         printf(" Conn=%u", inst->fb_conn1_C0 & 0x01);
-        printf(" 4-OP");
+        printf(" 2-OP");
     }
 
     printf(" Operators:\n");

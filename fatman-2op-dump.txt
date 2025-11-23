@@ -80,511 +80,511 @@ Legend:
 
 
 == Melodic bank #0 (Name=, LSB=0, MSB=0) ==
-INS=0: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=0: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=15 Release= 7 KSL=0 TL= 6 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 2 Sustain=15 Release= 4 KSL=2 TL=15 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=1: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=1: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=15 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 2 Sustain=15 Release= 4 KSL=1 TL=11 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=2: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=2: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=15 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 2 Sustain=15 Release= 4 KSL=1 TL= 9 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=3: NoteOff1=0 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=3: NoteOff1=0 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=15 Release= 7 KSL=0 TL= 0 AM=0 VIB=1 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 2 Sustain=15 Release= 7 KSL=0 TL=18 AM=1 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=4: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=4: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=15 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 1 Sustain=15 Release= 7 KSL=1 TL=23 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=5: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=5: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=15 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 1 Sustain=15 Release= 7 KSL=2 TL=19 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=6: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=6: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=15 Release= 5 KSL=0 TL=14 AM=0 VIB=0 EG=0 KSR=1 FMult= 6 WaveForm=0]
   - Op1=MOD1 [Attack=10 Decay= 1 Sustain=15 Release= 2 KSL=2 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=7: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=7: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=12 Decay= 2 Sustain=15 Release= 8 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=12 Decay= 2 Sustain=15 Release= 8 KSL=2 TL=18 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=8: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=8: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 3 Sustain=15 Release= 5 KSL=0 TL= 0 AM=1 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain=15 Release= 4 KSL=1 TL=28 AM=0 VIB=0 EG=0 KSR=0 FMult=12 WaveForm=0]
 
-INS=9: NoteOff1=0 VelOff=0 FB=1 Conn=0 4-OP Operators:
+INS=9: NoteOff1=0 VelOff=0 FB=1 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=15 Release= 1 KSL=2 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 3 Sustain=15 Release= 2 KSL=2 TL=23 AM=0 VIB=0 EG=0 KSR=0 FMult= 7 WaveForm=0]
 
-INS=10: NoteOff1=0 VelOff=0 FB=1 Conn=0 4-OP Operators:
+INS=10: NoteOff1=0 VelOff=0 FB=1 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 4 Sustain=15 Release= 4 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 5 Decay= 4 Sustain=15 Release= 4 KSL=0 TL=33 AM=0 VIB=0 EG=0 KSR=1 FMult= 7 WaveForm=0]
 
-INS=11: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=11: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=15 Release= 6 KSL=0 TL= 0 AM=1 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 3 Sustain=15 Release= 6 KSL=1 TL=34 AM=1 VIB=0 EG=0 KSR=1 FMult= 8 WaveForm=0]
 
-INS=12: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=12: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=14 Decay= 7 Sustain=15 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain=15 Release= 6 KSL=0 TL=35 AM=0 VIB=0 EG=0 KSR=1 FMult= 8 WaveForm=0]
 
-INS=13: NoteOff1=0 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=13: NoteOff1=0 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 6 Sustain=15 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain=15 Release= 6 KSL=2 TL=17 AM=0 VIB=0 EG=0 KSR=1 FMult= 5 WaveForm=0]
 
-INS=14: NoteOff1=0 VelOff=0 FB=6 Conn=0 4-OP Operators:
+INS=14: NoteOff1=0 VelOff=0 FB=6 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=10 Decay= 3 Sustain=15 Release= 3 KSL=2 TL= 0 AM=1 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=13 Decay= 3 Sustain=15 Release= 3 KSL=1 TL=25 AM=0 VIB=1 EG=0 KSR=0 FMult= 5 WaveForm=0]
 
-INS=15: NoteOff1=0 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=15: NoteOff1=0 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=11 Decay= 5 Sustain=15 Release= 5 KSL=2 TL= 0 AM=1 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 7 Decay= 5 Sustain=15 Release= 5 KSL=1 TL= 9 AM=0 VIB=0 EG=0 KSR=0 FMult= 3 WaveForm=1]
 
-INS=16: NoteOff1=0 VelOff=0 FB=1 Conn=0 4-OP Operators:
+INS=16: NoteOff1=0 VelOff=0 FB=1 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 1 Sustain= 0 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 1 Release= 4 KSL=2 TL=18 AM=0 VIB=1 EG=1 KSR=1 FMult= 1 WaveForm=0]
 
-INS=17: NoteOff1=0 VelOff=0 FB=1 Conn=0 4-OP Operators:
+INS=17: NoteOff1=0 VelOff=0 FB=1 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=12 Decay= 7 Sustain= 0 Release= 8 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=1 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=12 Decay= 7 Sustain= 5 Release= 8 KSL=0 TL=20 AM=0 VIB=1 EG=1 KSR=1 FMult= 2 WaveForm=0]
 
-INS=18: NoteOff1=0 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=18: NoteOff1=0 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay=10 Sustain= 0 Release= 8 KSL=0 TL= 0 AM=1 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=10 Decay=10 Sustain= 1 Release= 8 KSL=1 TL= 4 AM=0 VIB=1 EG=1 KSR=1 FMult= 0 WaveForm=0]
 
-INS=19: NoteOff1=0 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=19: NoteOff1=0 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 5 Decay= 5 Sustain= 1 Release= 4 KSL=0 TL= 0 AM=1 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 9 Decay= 7 Sustain= 2 Release= 3 KSL=2 TL=19 AM=0 VIB=0 EG=1 KSR=0 FMult= 3 WaveForm=1]
 
-INS=20: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=20: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 5 Decay= 5 Sustain= 0 Release= 4 KSL=2 TL= 0 AM=1 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 9 Decay= 7 Sustain= 0 Release= 4 KSL=0 TL=19 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=1]
 
-INS=21: NoteOff1=0 VelOff=0 FB=6 Conn=0 4-OP Operators:
+INS=21: NoteOff1=0 VelOff=0 FB=6 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 4 Decay= 6 Sustain= 1 Release=10 KSL=0 TL= 0 AM=1 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 9 Decay= 8 Sustain= 2 Release=10 KSL=1 TL= 8 AM=0 VIB=0 EG=1 KSR=0 FMult= 4 WaveForm=1]
 
-INS=22: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=22: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay= 1 Sustain= 0 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 9 Decay= 1 Sustain= 0 Release= 6 KSL=0 TL=19 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=1]
 
-INS=23: NoteOff1=0 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=23: NoteOff1=0 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay= 1 Sustain= 0 Release= 7 KSL=2 TL= 9 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 7 Decay= 1 Sustain= 0 Release= 6 KSL=0 TL=19 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=24: NoteOff1=0 VelOff=0 FB=6 Conn=0 4-OP Operators:
+INS=24: NoteOff1=0 VelOff=0 FB=6 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 3 Sustain=12 Release= 8 KSL=2 TL= 0 AM=0 VIB=1 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 3 Sustain= 9 Release= 4 KSL=2 TL=28 AM=0 VIB=0 EG=0 KSR=0 FMult= 2 WaveForm=1]
 
-INS=25: NoteOff1=0 VelOff=0 FB=6 Conn=0 4-OP Operators:
+INS=25: NoteOff1=0 VelOff=0 FB=6 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 1 Sustain=14 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 3 Sustain= 9 Release=10 KSL=1 TL=20 AM=0 VIB=0 EG=0 KSR=0 FMult= 3 WaveForm=1]
 
-INS=26: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=26: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=15 Release= 8 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 1 Sustain= 3 Release=10 KSL=1 TL=31 AM=0 VIB=0 EG=1 KSR=0 FMult= 3 WaveForm=0]
 
-INS=27: NoteOff1=0 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=27: NoteOff1=0 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 3 Sustain=15 Release= 8 KSL=2 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 2 Release= 2 KSL=2 TL= 7 AM=0 VIB=0 EG=0 KSR=0 FMult= 3 WaveForm=1]
 
-INS=28: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=28: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 6 Sustain= 3 Release=10 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 9 Sustain= 5 Release= 4 KSL=1 TL= 7 AM=0 VIB=0 EG=0 KSR=0 FMult= 3 WaveForm=0]
 
-INS=29: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=29: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay= 4 Sustain= 1 Release= 9 KSL=0 TL= 5 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 9 Decay= 1 Sustain= 4 Release= 1 KSL=1 TL=10 AM=0 VIB=0 EG=1 KSR=0 FMult= 3 WaveForm=1]
 
-INS=30: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=30: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 9 Decay= 4 Sustain= 1 Release= 9 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 9 Decay= 5 Sustain= 1 Release= 9 KSL=1 TL=10 AM=0 VIB=0 EG=1 KSR=0 FMult= 3 WaveForm=1]
 
-INS=31: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=31: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=13 Decay= 1 Sustain=15 Release= 8 KSL=2 TL= 0 AM=1 VIB=0 EG=0 KSR=0 FMult= 4 WaveForm=0]
   - Op1=MOD1 [Attack= 2 Decay= 0 Sustain= 4 Release=15 KSL=2 TL=33 AM=0 VIB=0 EG=0 KSR=0 FMult= 9 WaveForm=0]
 
-INS=32: NoteOff1=0 VelOff=0 FB=1 Conn=0 4-OP Operators:
+INS=32: NoteOff1=0 VelOff=0 FB=1 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=12 Decay= 3 Sustain=10 Release= 6 KSL=0 TL= 0 AM=1 VIB=0 EG=1 KSR=0 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack= 9 Decay= 4 Sustain= 0 Release= 6 KSL=0 TL=30 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=33: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=33: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 1 Sustain= 1 Release= 8 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 1 Sustain= 2 Release= 8 KSL=0 TL=18 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
 
-INS=34: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=34: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 1 Sustain= 7 Release= 8 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 1 Sustain=14 Release= 8 KSL=2 TL=13 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
 
-INS=35: NoteOff1=0 VelOff=0 FB=6 Conn=0 4-OP Operators:
+INS=35: NoteOff1=0 VelOff=0 FB=6 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 1 Sustain= 4 Release= 8 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=1 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack= 5 Decay= 1 Sustain= 2 Release= 8 KSL=1 TL=27 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
 
-INS=36: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=36: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=13 Release=15 KSL=1 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=10 Decay= 1 Sustain= 9 Release=10 KSL=2 TL=11 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=37: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=37: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=10 Decay= 1 Sustain=13 Release=15 KSL=0 TL= 8 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=10 Decay= 2 Sustain= 1 Release= 6 KSL=2 TL=11 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=38: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=38: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 1 Sustain= 7 Release= 8 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 4 Sustain=14 Release= 8 KSL=2 TL=11 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
 
-INS=39: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=39: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 1 Sustain= 1 Release= 8 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 1 Sustain= 2 Release= 8 KSL=0 TL=18 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
 
-INS=40: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=40: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 5 Decay= 6 Sustain= 2 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=13 Decay=13 Sustain= 1 Release= 3 KSL=0 TL=21 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=1]
 
-INS=41: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=41: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay= 6 Sustain= 0 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=13 Decay=13 Sustain= 1 Release= 3 KSL=0 TL=22 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=1]
 
-INS=42: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=42: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay= 1 Sustain= 0 Release=12 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=13 Decay= 1 Sustain= 1 Release=12 KSL=1 TL= 9 AM=0 VIB=1 EG=1 KSR=1 FMult= 1 WaveForm=1]
 
-INS=43: NoteOff1=0 VelOff=0 FB=1 Conn=0 4-OP Operators:
+INS=43: NoteOff1=0 VelOff=0 FB=1 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 2 Sustain= 0 Release= 6 KSL=2 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 3 WaveForm=0]
   - Op1=MOD1 [Attack= 7 Decay= 1 Sustain= 1 Release= 2 KSL=1 TL=13 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
 
-INS=44: NoteOff1=0 VelOff=0 FB=1 Conn=0 4-OP Operators:
+INS=44: NoteOff1=0 VelOff=0 FB=1 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay=15 Sustain= 1 Release= 6 KSL=0 TL= 0 AM=1 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 1 Sustain= 2 Release= 1 KSL=1 TL= 0 AM=1 VIB=1 EG=1 KSR=1 FMult= 1 WaveForm=1]
 
-INS=45: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=45: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay= 5 Sustain= 3 Release= 5 KSL=2 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 5 Sustain= 7 Release= 5 KSL=0 TL=26 AM=0 VIB=0 EG=0 KSR=0 FMult= 2 WaveForm=1]
 
-INS=46: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=46: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 3 Sustain=15 Release= 4 KSL=2 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 5 Sustain= 7 Release= 5 KSL=0 TL=29 AM=0 VIB=0 EG=0 KSR=0 FMult= 2 WaveForm=1]
 
-INS=47: NoteOff1=0 VelOff=0 FB=1 Conn=0 4-OP Operators:
+INS=47: NoteOff1=0 VelOff=0 FB=1 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=12 Release= 3 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 5 Sustain= 0 Release= 5 KSL=1 TL= 1 AM=0 VIB=0 EG=0 KSR=1 FMult= 0 WaveForm=1]
 
-INS=48: NoteOff1=0 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=48: NoteOff1=0 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 2 Sustain= 0 Release= 8 KSL=0 TL= 1 AM=1 VIB=0 EG=1 KSR=0 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack=11 Decay= 1 Sustain= 2 Release= 5 KSL=2 TL=27 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
 
-INS=49: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=49: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 3 Decay=15 Sustain= 0 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
   - Op1=MOD1 [Attack= 7 Decay=15 Sustain= 0 Release= 3 KSL=2 TL=24 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
 
-INS=50: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=50: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 4 Decay=15 Sustain= 0 Release= 5 KSL=0 TL= 0 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=12 Decay= 1 Sustain= 1 Release= 2 KSL=2 TL=19 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=51: NoteOff1=0 VelOff=0 FB=6 Conn=0 4-OP Operators:
+INS=51: NoteOff1=0 VelOff=0 FB=6 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 4 Decay=15 Sustain= 0 Release= 5 KSL=0 TL= 0 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=12 Decay= 1 Sustain= 2 Release= 2 KSL=0 TL=24 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=52: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=52: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay=10 Sustain= 0 Release= 5 KSL=2 TL= 3 AM=0 VIB=1 EG=1 KSR=1 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 4 Sustain= 1 Release= 5 KSL=1 TL=27 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
 
-INS=53: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=53: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 1 Sustain= 6 Release= 7 KSL=0 TL= 0 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 7 Decay= 4 Sustain= 3 Release= 9 KSL=2 TL=16 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=54: NoteOff1=0 VelOff=0 FB=6 Conn=0 4-OP Operators:
+INS=54: NoteOff1=0 VelOff=0 FB=6 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay=10 Sustain= 0 Release= 5 KSL=0 TL= 0 AM=0 VIB=1 EG=1 KSR=1 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack= 5 Decay= 4 Sustain= 0 Release= 5 KSL=1 TL=23 AM=0 VIB=1 EG=1 KSR=1 FMult= 1 WaveForm=0]
 
-INS=55: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=55: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=10 Decay= 5 Sustain= 4 Release= 5 KSL=0 TL= 0 AM=0 VIB=1 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 5 Decay= 4 Sustain= 6 Release= 3 KSL=0 TL= 0 AM=1 VIB=0 EG=0 KSR=1 FMult= 0 WaveForm=0]
 
-INS=56: NoteOff1=0 VelOff=0 FB=6 Conn=0 4-OP Operators:
+INS=56: NoteOff1=0 VelOff=0 FB=6 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay=15 Sustain= 0 Release= 9 KSL=0 TL= 1 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 8 Decay= 5 Sustain= 1 Release= 7 KSL=2 TL=18 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=57: NoteOff1=0 VelOff=0 FB=6 Conn=0 4-OP Operators:
+INS=57: NoteOff1=0 VelOff=0 FB=6 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay=15 Sustain= 0 Release= 9 KSL=0 TL= 5 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 7 Decay= 5 Sustain= 1 Release= 7 KSL=2 TL=20 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=58: NoteOff1=0 VelOff=0 FB=6 Conn=0 4-OP Operators:
+INS=58: NoteOff1=0 VelOff=0 FB=6 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay= 2 Sustain= 3 Release= 7 KSL=0 TL= 0 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 7 Decay= 6 Sustain= 1 Release= 5 KSL=2 TL=20 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=59: NoteOff1=0 VelOff=0 FB=1 Conn=0 4-OP Operators:
+INS=59: NoteOff1=0 VelOff=0 FB=1 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay= 2 Sustain= 2 Release=12 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
   - Op1=MOD1 [Attack= 9 Decay=14 Sustain= 1 Release= 7 KSL=1 TL= 3 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=1]
 
-INS=60: NoteOff1=0 VelOff=0 FB=1 Conn=0 4-OP Operators:
+INS=60: NoteOff1=0 VelOff=0 FB=1 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay=15 Sustain= 0 Release=10 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 6 Decay= 1 Sustain= 6 Release=10 KSL=2 TL=27 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=61: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=61: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 4 Sustain= 0 Release=15 KSL=0 TL= 6 AM=0 VIB=0 EG=1 KSR=0 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack= 7 Decay= 5 Sustain= 1 Release=15 KSL=2 TL=10 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=62: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=62: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 1 Sustain= 1 Release= 8 KSL=2 TL= 3 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 7 Decay= 2 Sustain= 5 Release= 5 KSL=2 TL= 6 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
 
-INS=63: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=63: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=10 Decay= 6 Sustain= 1 Release=12 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 5 Decay= 4 Sustain= 3 Release=12 KSL=1 TL=13 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=64: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=64: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 2 Sustain= 0 Release=11 KSL=0 TL= 0 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 9 Decay= 3 Sustain= 0 Release= 2 KSL=2 TL=15 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=1]
 
-INS=65: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=65: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 2 Sustain= 0 Release= 9 KSL=0 TL= 0 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 9 Decay= 3 Sustain= 0 Release= 3 KSL=2 TL=14 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=1]
 
-INS=66: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=66: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay= 2 Sustain= 0 Release= 9 KSL=0 TL= 0 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 9 Decay= 3 Sustain= 0 Release= 3 KSL=2 TL=17 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=1]
 
-INS=67: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=67: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 2 Sustain= 0 Release=15 KSL=0 TL= 0 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 9 Decay= 3 Sustain= 0 Release=15 KSL=2 TL=14 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=1]
 
-INS=68: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=68: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay=15 Sustain= 0 Release=10 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=10 Decay=10 Sustain= 1 Release= 6 KSL=1 TL=11 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
 
-INS=69: NoteOff1=0 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=69: NoteOff1=0 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay=11 Sustain= 0 Release=12 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
   - Op1=MOD1 [Attack= 7 Decay=14 Sustain= 1 Release= 7 KSL=2 TL=16 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=1]
 
-INS=70: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=70: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay= 1 Sustain= 1 Release= 9 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=1 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack= 7 Decay= 5 Sustain= 1 Release= 9 KSL=2 TL= 1 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=1]
 
-INS=71: NoteOff1=0 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=71: NoteOff1=0 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 2 Sustain= 1 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 9 Decay=11 Sustain= 2 Release= 1 KSL=2 TL=16 AM=0 VIB=0 EG=1 KSR=1 FMult= 2 WaveForm=0]
 
-INS=72: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=72: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay= 5 Sustain= 1 Release=10 KSL=0 TL= 0 AM=1 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 8 Decay= 5 Sustain= 5 Release=15 KSL=0 TL=31 AM=1 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=73: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=73: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay= 5 Sustain= 1 Release=10 KSL=0 TL= 0 AM=1 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 8 Decay= 8 Sustain= 5 Release=15 KSL=1 TL= 6 AM=1 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=74: NoteOff1=0 VelOff=0 FB=1 Conn=0 4-OP Operators:
+INS=74: NoteOff1=0 VelOff=0 FB=1 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 5 Sustain= 0 Release=10 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 7 Decay= 5 Sustain= 1 Release=15 KSL=2 TL=28 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=75: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=75: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay= 5 Sustain= 1 Release=10 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 8 Decay= 4 Sustain= 5 Release= 8 KSL=2 TL=11 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
 
-INS=76: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=76: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay= 5 Sustain= 2 Release= 6 KSL=0 TL= 0 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 6 Decay= 6 Sustain= 5 Release= 6 KSL=1 TL=12 AM=1 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=77: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=77: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 5 Decay= 5 Sustain= 3 Release= 6 KSL=0 TL= 0 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 7 Decay= 6 Sustain= 4 Release= 6 KSL=3 TL=11 AM=0 VIB=1 EG=1 KSR=0 FMult= 2 WaveForm=0]
 
-INS=78: NoteOff1=0 VelOff=0 FB=5 Conn=1 4-OP Operators:
+INS=78: NoteOff1=0 VelOff=0 FB=5 Conn=1 2-OP Operators:
   - Op0=CAR1 [Attack= 5 Decay= 6 Sustain= 0 Release= 7 KSL=0 TL= 0 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 5 Decay= 7 Sustain= 0 Release= 7 KSL=2 TL=25 AM=0 VIB=1 EG=1 KSR=0 FMult= 2 WaveForm=0]
 
-INS=79: NoteOff1=0 VelOff=0 FB=5 Conn=1 4-OP Operators:
+INS=79: NoteOff1=0 VelOff=0 FB=5 Conn=1 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 6 Sustain= 0 Release= 7 KSL=0 TL= 0 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 7 Decay= 7 Sustain= 0 Release= 7 KSL=2 TL=19 AM=0 VIB=1 EG=1 KSR=0 FMult= 2 WaveForm=0]
 
-INS=80: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=80: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay=15 Sustain= 0 Release=15 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay=15 Sustain= 0 Release= 3 KSL=1 TL=25 AM=0 VIB=0 EG=1 KSR=0 FMult= 2 WaveForm=2]
 
-INS=81: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=81: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay=15 Sustain= 0 Release=15 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
   - Op1=MOD1 [Attack=15 Decay=15 Sustain= 0 Release=15 KSL=0 TL=14 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
 
-INS=82: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=82: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay= 4 Sustain= 1 Release= 8 KSL=2 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 8 Decay= 6 Sustain= 5 Release= 5 KSL=1 TL= 6 AM=0 VIB=0 EG=1 KSR=0 FMult= 2 WaveForm=0]
 
-INS=83: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=83: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 9 Decay= 6 Sustain= 0 Release=10 KSL=0 TL= 0 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 6 Decay= 6 Sustain= 1 Release= 2 KSL=1 TL= 5 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=84: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=84: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 9 Decay= 1 Sustain= 2 Release=10 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack= 9 Decay= 2 Sustain= 2 Release=10 KSL=2 TL=11 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
 
-INS=85: NoteOff1=0 VelOff=0 FB=1 Conn=0 4-OP Operators:
+INS=85: NoteOff1=0 VelOff=0 FB=1 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay=15 Sustain= 0 Release= 7 KSL=1 TL= 0 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=13 Decay=15 Sustain= 0 Release= 5 KSL=2 TL=30 AM=1 VIB=0 EG=1 KSR=0 FMult= 2 WaveForm=0]
 
-INS=86: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=86: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay=15 Sustain= 0 Release= 6 KSL=0 TL= 0 AM=0 VIB=1 EG=1 KSR=0 FMult= 0 WaveForm=2]
   - Op1=MOD1 [Attack=14 Decay=15 Sustain= 0 Release= 1 KSL=0 TL=26 AM=0 VIB=0 EG=1 KSR=0 FMult= 0 WaveForm=0]
 
-INS=87: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=87: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 4 Sustain= 0 Release= 9 KSL=2 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 1 Sustain= 2 Release= 9 KSL=2 TL=15 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=88: NoteOff1=0 VelOff=0 FB=1 Conn=0 4-OP Operators:
+INS=88: NoteOff1=0 VelOff=0 FB=1 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=10 Decay= 0 Sustain= 0 Release= 5 KSL=0 TL= 0 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 5 Decay= 3 Sustain= 9 Release= 4 KSL=2 TL=37 AM=0 VIB=1 EG=1 KSR=1 FMult= 7 WaveForm=0]
 
-INS=89: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=89: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 2 Decay= 5 Sustain= 0 Release= 3 KSL=2 TL= 0 AM=1 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=10 Decay= 8 Sustain= 1 Release= 1 KSL=0 TL=31 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=90: NoteOff1=0 VelOff=0 FB=6 Conn=0 4-OP Operators:
+INS=90: NoteOff1=0 VelOff=0 FB=6 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 5 Decay= 5 Sustain= 1 Release= 6 KSL=0 TL= 0 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 9 Decay= 1 Sustain= 3 Release= 4 KSL=0 TL=23 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=91: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=91: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay=10 Sustain= 0 Release= 3 KSL=0 TL= 0 AM=0 VIB=1 EG=1 KSR=1 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack= 5 Decay= 4 Sustain= 0 Release= 1 KSL=1 TL=29 AM=0 VIB=1 EG=1 KSR=1 FMult= 1 WaveForm=0]
 
-INS=92: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=92: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 4 Decay= 2 Sustain= 3 Release= 5 KSL=0 TL= 0 AM=1 VIB=0 EG=1 KSR=0 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack= 2 Decay= 1 Sustain= 4 Release= 3 KSL=2 TL=23 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=93: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=93: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 3 Decay= 1 Sustain= 4 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
   - Op1=MOD1 [Attack=10 Decay= 1 Sustain= 7 Release= 7 KSL=0 TL=28 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
 
-INS=94: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=94: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 4 Decay= 2 Sustain= 2 Release= 5 KSL=0 TL= 3 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 1 Decay= 1 Sustain= 3 Release= 3 KSL=2 TL= 9 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=95: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=95: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=12 Decay=15 Sustain= 0 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 1 Decay= 1 Sustain= 4 Release= 7 KSL=0 TL=21 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
 
-INS=96: NoteOff1=0 VelOff=0 FB=1 Conn=0 4-OP Operators:
+INS=96: NoteOff1=0 VelOff=0 FB=1 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay= 6 Sustain= 0 Release= 2 KSL=0 TL= 0 AM=0 VIB=1 EG=0 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 8 Sustain=15 Release= 6 KSL=3 TL=14 AM=0 VIB=0 EG=1 KSR=1 FMult=10 WaveForm=0]
 
-INS=97: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=97: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 4 Decay= 1 Sustain= 1 Release= 3 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 2 Decay= 1 Sustain= 2 Release= 3 KSL=0 TL=21 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=1]
 
-INS=98: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=98: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=10 Decay= 5 Sustain= 7 Release= 2 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 7 Decay= 4 Sustain= 9 Release= 5 KSL=1 TL=27 AM=0 VIB=0 EG=0 KSR=0 FMult= 6 WaveForm=0]
 
-INS=99: NoteOff1=0 VelOff=0 FB=6 Conn=0 4-OP Operators:
+INS=99: NoteOff1=0 VelOff=0 FB=6 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain= 2 Release= 6 KSL=2 TL= 3 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=11 Decay= 1 Sustain= 8 Release= 1 KSL=2 TL=18 AM=0 VIB=0 EG=1 KSR=0 FMult= 2 WaveForm=0]
 
-INS=100: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=100: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=15 Release= 5 KSL=0 TL= 0 AM=0 VIB=1 EG=0 KSR=0 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 1 Sustain= 5 Release= 1 KSL=1 TL=13 AM=0 VIB=1 EG=0 KSR=0 FMult= 1 WaveForm=1]
 
-INS=101: NoteOff1=0 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=101: NoteOff1=0 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 1 Decay= 1 Sustain= 1 Release= 3 KSL=2 TL= 0 AM=1 VIB=0 EG=1 KSR=0 FMult= 3 WaveForm=0]
   - Op1=MOD1 [Attack= 1 Decay= 1 Sustain= 5 Release= 1 KSL=2 TL=20 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=1]
 
-INS=102: NoteOff1=0 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=102: NoteOff1=0 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 1 Decay=13 Sustain= 0 Release= 3 KSL=2 TL= 0 AM=1 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 1 Decay= 1 Sustain= 3 Release= 1 KSL=2 TL=12 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=103: NoteOff1=0 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=103: NoteOff1=0 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay= 1 Sustain= 2 Release= 3 KSL=0 TL= 0 AM=0 VIB=1 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 3 Sustain= 7 Release= 3 KSL=1 TL=12 AM=1 VIB=0 EG=1 KSR=0 FMult= 4 WaveForm=1]
 
-INS=104: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=104: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=15 Release= 6 KSL=0 TL= 3 AM=0 VIB=0 EG=0 KSR=0 FMult= 7 WaveForm=1]
   - Op1=MOD1 [Attack=13 Decay= 2 Sustain= 5 Release= 3 KSL=2 TL= 5 AM=0 VIB=0 EG=0 KSR=0 FMult= 2 WaveForm=0]
 
-INS=105: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=105: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=10 Decay= 2 Sustain=14 Release= 5 KSL=2 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 3 WaveForm=0]
   - Op1=MOD1 [Attack=10 Decay= 3 Sustain= 1 Release= 1 KSL=0 TL=12 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=1]
 
-INS=106: NoteOff1=0 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=106: NoteOff1=0 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 2 Sustain=14 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=2]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 4 Release= 1 KSL=0 TL= 6 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=1]
 
-INS=107: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=107: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=14 Decay=11 Sustain= 1 Release= 1 KSL=0 TL= 0 AM=1 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=1]
   - Op1=MOD1 [Attack=13 Decay= 4 Sustain= 3 Release= 2 KSL=2 TL=17 AM=1 VIB=0 EG=0 KSR=1 FMult= 3 WaveForm=0]
 
-INS=108: NoteOff1=0 VelOff=0 FB=6 Conn=0 4-OP Operators:
+INS=108: NoteOff1=0 VelOff=0 FB=6 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=12 Decay= 2 Sustain= 0 Release= 5 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay=10 Sustain= 5 Release= 6 KSL=1 TL=15 AM=0 VIB=0 EG=0 KSR=0 FMult= 4 WaveForm=0]
 
-INS=109: NoteOff1=0 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=109: NoteOff1=0 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay=15 Sustain= 0 Release=12 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 2 WaveForm=1]
   - Op1=MOD1 [Attack= 7 Decay=12 Sustain= 2 Release= 0 KSL=1 TL= 9 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
 
-INS=110: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=110: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 5 Decay= 6 Sustain= 1 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=13 Decay=13 Sustain= 3 Release= 3 KSL=2 TL= 5 AM=0 VIB=0 EG=1 KSR=1 FMult= 1 WaveForm=1]
 
-INS=111: NoteOff1=0 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=111: NoteOff1=0 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay=15 Sustain= 0 Release=11 KSL=2 TL= 1 AM=0 VIB=0 EG=1 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=13 Decay=10 Sustain= 0 Release= 5 KSL=0 TL= 4 AM=0 VIB=0 EG=1 KSR=0 FMult= 0 WaveForm=2]
 
-INS=112: NoteOff1=0 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=112: NoteOff1=0 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=12 Decay= 3 Sustain=14 Release= 5 KSL=2 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 3 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 1 Sustain=14 Release= 5 KSL=1 TL=42 AM=0 VIB=0 EG=0 KSR=0 FMult= 5 WaveForm=0]
 
-INS=113: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=113: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 8 Sustain= 1 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack=14 Decay=12 Sustain= 2 Release= 6 KSL=0 TL=21 AM=0 VIB=0 EG=0 KSR=0 FMult= 7 WaveForm=0]
 
-INS=114: NoteOff1=0 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=114: NoteOff1=0 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=13 Decay=15 Sustain= 0 Release= 5 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack= 6 Decay= 7 Sustain= 3 Release= 5 KSL=2 TL=29 AM=0 VIB=0 EG=0 KSR=0 FMult= 5 WaveForm=0]
 
-INS=115: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=115: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 8 Sustain=14 Release= 5 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay=10 Sustain= 2 Release= 8 KSL=2 TL=22 AM=0 VIB=0 EG=0 KSR=1 FMult= 8 WaveForm=0]
 
-INS=116: NoteOff1=0 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=116: NoteOff1=0 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay=10 Sustain= 0 Release= 3 KSL=0 TL= 3 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=10 Decay= 8 Sustain= 0 Release= 7 KSL=2 TL= 6 AM=0 VIB=0 EG=0 KSR=1 FMult= 0 WaveForm=0]
 
-INS=117: NoteOff1=0 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=117: NoteOff1=0 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 3 Sustain= 0 Release= 3 KSL=0 TL= 3 AM=0 VIB=0 EG=0 KSR=1 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 8 Sustain= 4 Release= 7 KSL=1 TL= 1 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=2]
 
-INS=118: NoteOff1=0 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=118: NoteOff1=0 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 3 Sustain= 0 Release= 2 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 1 Sustain= 0 Release= 6 KSL=2 TL=14 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=2]
 
-INS=119: NoteOff1=0 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=119: NoteOff1=0 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 1 Decay=15 Sustain=15 Release=15 KSL=0 TL= 0 AM=1 VIB=1 EG=0 KSR=0 FMult= 0 WaveForm=3]
   - Op1=MOD1 [Attack= 1 Decay=15 Sustain= 0 Release= 0 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=14 WaveForm=0]
 
-INS=120: NoteOff1=0 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=120: NoteOff1=0 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 5 Decay= 6 Sustain= 8 Release= 4 KSL=2 TL= 8 AM=0 VIB=0 EG=0 KSR=0 FMult= 3 WaveForm=2]
   - Op1=MOD1 [Attack=15 Decay= 8 Sustain= 2 Release= 4 KSL=2 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 6 WaveForm=0]
 
-INS=121: NoteOff1=0 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=121: NoteOff1=0 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 3 Decay= 4 Sustain= 0 Release= 4 KSL=0 TL= 5 AM=1 VIB=1 EG=0 KSR=1 FMult= 0 WaveForm=3]
   - Op1=MOD1 [Attack=15 Decay= 8 Sustain= 0 Release= 0 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=14 WaveForm=0]
 
-INS=122: NoteOff1=0 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=122: NoteOff1=0 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 1 Decay=15 Sustain= 0 Release= 2 KSL=0 TL= 0 AM=1 VIB=1 EG=0 KSR=0 FMult= 0 WaveForm=3]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release= 0 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=14 WaveForm=0]
 
-INS=123: NoteOff1=0 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=123: NoteOff1=0 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 5 Decay= 6 Sustain= 3 Release= 7 KSL=1 TL= 0 AM=1 VIB=1 EG=0 KSR=1 FMult=10 WaveForm=0]
   - Op1=MOD1 [Attack= 3 Decay= 7 Sustain=10 Release= 3 KSL=2 TL=21 AM=1 VIB=1 EG=0 KSR=1 FMult= 5 WaveForm=0]
 
-INS=124: NoteOff1=0 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=124: NoteOff1=0 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 4 Sustain= 1 Release= 5 KSL=0 TL= 8 AM=0 VIB=0 EG=0 KSR=1 FMult= 4 WaveForm=0]
   - Op1=MOD1 [Attack=11 Decay= 2 Sustain= 6 Release= 1 KSL=1 TL=28 AM=0 VIB=0 EG=1 KSR=1 FMult= 5 WaveForm=2]
 
-INS=125: NoteOff1=0 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=125: NoteOff1=0 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 4 Decay=15 Sustain=15 Release= 5 KSL=0 TL= 0 AM=1 VIB=1 EG=0 KSR=1 FMult= 0 WaveForm=3]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release= 0 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=14 WaveForm=0]
 
-INS=126: NoteOff1=0 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=126: NoteOff1=0 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 1 Decay= 2 Sustain= 1 Release= 6 KSL=0 TL= 0 AM=1 VIB=1 EG=1 KSR=0 FMult= 4 WaveForm=1]
   - Op1=MOD1 [Attack=15 Decay=15 Sustain= 0 Release= 1 KSL=0 TL= 0 AM=0 VIB=0 EG=1 KSR=0 FMult= 6 WaveForm=0]
 
@@ -626,215 +626,215 @@ INS=31: -- Blank instrument --
 INS=32: -- Blank instrument --
 INS=33: -- Blank instrument --
 INS=34: -- Blank instrument --
-INS=35: NoteOff1=0 PercKey=35 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=35: NoteOff1=0 PercKey=35 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 3 Sustain= 0 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 8 Sustain= 7 Release= 7 KSL=1 TL= 4 AM=0 VIB=0 EG=0 KSR=1 FMult= 0 WaveForm=2]
 
-INS=36: NoteOff1=0 PercKey=35 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=36: NoteOff1=0 PercKey=35 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 3 Sustain= 0 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 8 Sustain= 7 Release= 7 KSL=1 TL= 4 AM=0 VIB=0 EG=0 KSR=1 FMult= 0 WaveForm=2]
 
-INS=37: NoteOff1=0 PercKey=52 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=37: NoteOff1=0 PercKey=52 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 8 Sustain=15 Release=15 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 9 Sustain=15 Release=15 KSL=0 TL= 7 AM=0 VIB=0 EG=0 KSR=0 FMult= 2 WaveForm=0]
 
-INS=38: NoteOff1=0 PercKey=48 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=38: NoteOff1=0 PercKey=48 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay=10 Sustain= 1 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay=12 Sustain= 0 Release= 5 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=2]
 
-INS=39: NoteOff1=0 PercKey=58 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=39: NoteOff1=0 PercKey=58 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay=15 Sustain= 0 Release= 8 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay=15 Sustain= 0 Release= 7 KSL=0 TL= 2 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
 
-INS=40: NoteOff1=0 PercKey=60 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=40: NoteOff1=0 PercKey=60 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay=10 Sustain= 1 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay=12 Sustain= 0 Release= 5 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=2]
 
-INS=41: NoteOff1=0 PercKey=47 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=41: NoteOff1=0 PercKey=47 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 6 Sustain= 0 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release=12 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
 
-INS=42: NoteOff1=0 PercKey=43 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=42: NoteOff1=0 PercKey=43 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay=11 Sustain= 4 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 2 WaveForm=2]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release= 8 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=12 WaveForm=0]
 
-INS=43: NoteOff1=0 PercKey=49 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=43: NoteOff1=0 PercKey=49 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 6 Sustain= 0 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release=12 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
 
-INS=44: NoteOff1=0 PercKey=43 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=44: NoteOff1=0 PercKey=43 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay=11 Sustain= 4 Release= 7 KSL=0 TL= 5 AM=0 VIB=0 EG=0 KSR=1 FMult= 2 WaveForm=2]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release= 8 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=12 WaveForm=0]
 
-INS=45: NoteOff1=0 PercKey=51 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=45: NoteOff1=0 PercKey=51 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 6 Sustain= 0 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release=12 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
 
-INS=46: NoteOff1=0 PercKey=43 VelOff=0 FB=5 Conn=0 4-OP Operators:
+INS=46: NoteOff1=0 PercKey=43 VelOff=0 FB=5 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=12 Decay=11 Sustain= 4 Release= 3 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 2 WaveForm=2]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release= 2 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=12 WaveForm=0]
 
-INS=47: NoteOff1=0 PercKey=54 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=47: NoteOff1=0 PercKey=54 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 6 Sustain= 0 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release=12 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
 
-INS=48: NoteOff1=0 PercKey=57 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=48: NoteOff1=0 PercKey=57 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 6 Sustain= 0 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release=12 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
 
-INS=49: NoteOff1=0 PercKey=72 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=49: NoteOff1=0 PercKey=72 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 9 Decay=15 Sustain= 0 Release= 2 KSL=0 TL= 0 AM=1 VIB=1 EG=0 KSR=1 FMult= 0 WaveForm=3]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release= 0 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=14 WaveForm=0]
 
-INS=50: NoteOff1=0 PercKey=60 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=50: NoteOff1=0 PercKey=60 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 6 Sustain= 0 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release=12 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
 
-INS=51: NoteOff1=0 PercKey=76 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=51: NoteOff1=0 PercKey=76 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 4 Sustain=14 Release= 4 KSL=1 TL=10 AM=0 VIB=0 EG=0 KSR=0 FMult= 7 WaveForm=3]
   - Op1=MOD1 [Attack=15 Decay= 8 Sustain= 4 Release= 2 KSL=0 TL= 8 AM=0 VIB=0 EG=0 KSR=0 FMult=14 WaveForm=0]
 
-INS=52: NoteOff1=0 PercKey=84 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=52: NoteOff1=0 PercKey=84 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 9 Decay=15 Sustain= 0 Release= 2 KSL=0 TL=10 AM=1 VIB=1 EG=0 KSR=1 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 5 Sustain= 3 Release= 0 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=14 WaveForm=0]
 
-INS=53: NoteOff1=0 PercKey=36 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=53: NoteOff1=0 PercKey=36 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 5 Sustain=14 Release= 5 KSL=1 TL=29 AM=0 VIB=0 EG=0 KSR=0 FMult= 7 WaveForm=1]
   - Op1=MOD1 [Attack=14 Decay= 4 Sustain=14 Release= 4 KSL=0 TL=10 AM=0 VIB=0 EG=0 KSR=0 FMult=14 WaveForm=3]
 
-INS=54: NoteOff1=0 PercKey=65 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=54: NoteOff1=0 PercKey=65 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 9 Decay= 7 Sustain=15 Release= 7 KSL=0 TL=10 AM=0 VIB=0 EG=0 KSR=0 FMult= 5 WaveForm=0]
   - Op1=MOD1 [Attack=11 Decay= 4 Sustain= 0 Release= 4 KSL=0 TL= 3 AM=0 VIB=0 EG=0 KSR=0 FMult= 2 WaveForm=0]
 
-INS=55: NoteOff1=0 PercKey=84 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=55: NoteOff1=0 PercKey=84 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 9 Decay=15 Sustain= 0 Release= 2 KSL=0 TL= 0 AM=1 VIB=0 EG=0 KSR=1 FMult=14 WaveForm=3]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release= 0 KSL=0 TL= 0 AM=0 VIB=1 EG=0 KSR=0 FMult=14 WaveForm=0]
 
-INS=56: NoteOff1=0 PercKey=83 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=56: NoteOff1=0 PercKey=83 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 3 Sustain= 0 Release= 5 KSL=0 TL= 8 AM=0 VIB=0 EG=0 KSR=1 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 8 Sustain= 3 Release= 7 KSL=1 TL= 5 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=2]
 
-INS=57: NoteOff1=0 PercKey=84 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=57: NoteOff1=0 PercKey=84 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 9 Decay=15 Sustain= 0 Release= 2 KSL=0 TL= 0 AM=1 VIB=1 EG=0 KSR=1 FMult= 0 WaveForm=3]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release= 0 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=14 WaveForm=0]
 
-INS=58: NoteOff1=0 PercKey=24 VelOff=0 FB=6 Conn=0 4-OP Operators:
+INS=58: NoteOff1=0 PercKey=24 VelOff=0 FB=6 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay=15 Sustain= 1 Release= 4 KSL=0 TL=13 AM=0 VIB=0 EG=0 KSR=1 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay=15 Sustain= 0 Release= 3 KSL=0 TL= 0 AM=1 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=3]
 
-INS=59: NoteOff1=0 PercKey=77 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=59: NoteOff1=0 PercKey=77 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 4 Sustain=14 Release= 4 KSL=1 TL=10 AM=0 VIB=0 EG=0 KSR=0 FMult= 7 WaveForm=3]
   - Op1=MOD1 [Attack=15 Decay= 8 Sustain= 4 Release= 2 KSL=0 TL= 8 AM=0 VIB=0 EG=0 KSR=0 FMult=14 WaveForm=0]
 
-INS=60: NoteOff1=0 PercKey=60 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=60: NoteOff1=0 PercKey=60 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 5 Sustain= 0 Release= 8 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 5 Sustain= 0 Release=12 KSL=0 TL=11 AM=0 VIB=0 EG=0 KSR=0 FMult= 6 WaveForm=0]
 
-INS=61: NoteOff1=0 PercKey=65 VelOff=0 FB=3 Conn=1 4-OP Operators:
+INS=61: NoteOff1=0 PercKey=65 VelOff=0 FB=3 Conn=1 2-OP Operators:
   - Op0=CAR1 [Attack=12 Decay= 8 Sustain= 9 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay=10 Sustain=11 Release=15 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=62: NoteOff1=0 PercKey=59 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=62: NoteOff1=0 PercKey=59 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay=10 Sustain=11 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay=10 Sustain= 8 Release= 7 KSL=1 TL=17 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=63: NoteOff1=0 PercKey=51 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=63: NoteOff1=0 PercKey=51 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 8 Sustain=11 Release= 8 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay=10 Sustain= 8 Release=13 KSL=1 TL=20 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=64: NoteOff1=0 PercKey=45 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=64: NoteOff1=0 PercKey=45 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 8 Sustain=11 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay=10 Sustain= 8 Release= 8 KSL=1 TL=25 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=65: NoteOff1=0 PercKey=71 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=65: NoteOff1=0 PercKey=71 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay=10 Sustain= 0 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 9 Sustain= 0 Release=10 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=3]
 
-INS=66: NoteOff1=0 PercKey=60 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=66: NoteOff1=0 PercKey=60 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 6 Sustain= 6 Release=12 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 9 Sustain= 8 Release= 9 KSL=2 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=3]
 
-INS=67: NoteOff1=0 PercKey=58 VelOff=0 FB=7 Conn=1 4-OP Operators:
+INS=67: NoteOff1=0 PercKey=58 VelOff=0 FB=7 Conn=1 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 6 Sustain=11 Release= 6 KSL=0 TL= 8 AM=0 VIB=0 EG=0 KSR=0 FMult=12 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 8 Sustain= 8 Release= 8 KSL=2 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 3 WaveForm=3]
 
-INS=68: NoteOff1=0 PercKey=53 VelOff=0 FB=7 Conn=1 4-OP Operators:
+INS=68: NoteOff1=0 PercKey=53 VelOff=0 FB=7 Conn=1 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 6 Sustain=11 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=12 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 8 Sustain= 8 Release= 8 KSL=2 TL= 5 AM=0 VIB=0 EG=0 KSR=0 FMult= 3 WaveForm=3]
 
-INS=69: NoteOff1=0 PercKey=64 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=69: NoteOff1=0 PercKey=64 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 7 Sustain= 1 Release= 8 KSL=0 TL= 8 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=2]
   - Op1=MOD1 [Attack= 7 Decay= 6 Sustain= 4 Release=15 KSL=1 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=14 WaveForm=0]
 
-INS=70: NoteOff1=0 PercKey=71 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=70: NoteOff1=0 PercKey=71 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 9 Decay=11 Sustain= 6 Release= 9 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 3 WaveForm=2]
   - Op1=MOD1 [Attack=12 Decay= 8 Sustain= 4 Release= 9 KSL=1 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=14 WaveForm=0]
 
-INS=71: NoteOff1=0 PercKey=61 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=71: NoteOff1=0 PercKey=61 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay=13 Sustain= 0 Release= 5 KSL=0 TL= 0 AM=1 VIB=1 EG=0 KSR=0 FMult= 7 WaveForm=0]
   - Op1=MOD1 [Attack=10 Decay=13 Sustain= 0 Release= 5 KSL=3 TL=28 AM=1 VIB=1 EG=0 KSR=1 FMult= 7 WaveForm=3]
 
-INS=72: NoteOff1=0 PercKey=61 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=72: NoteOff1=0 PercKey=61 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 8 Decay= 8 Sustain= 0 Release= 4 KSL=0 TL= 0 AM=1 VIB=1 EG=0 KSR=0 FMult= 7 WaveForm=0]
   - Op1=MOD1 [Attack=10 Decay= 8 Sustain= 0 Release= 4 KSL=3 TL=28 AM=1 VIB=1 EG=0 KSR=1 FMult= 7 WaveForm=3]
 
-INS=73: NoteOff1=0 PercKey=44 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=73: NoteOff1=0 PercKey=44 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 6 Decay= 7 Sustain= 1 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=3]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release= 6 KSL=0 TL= 0 AM=1 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=3]
 
-INS=74: NoteOff1=0 PercKey=40 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=74: NoteOff1=0 PercKey=40 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 4 Decay= 6 Sustain= 1 Release= 6 KSL=0 TL= 9 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=3]
   - Op1=MOD1 [Attack=15 Decay= 5 Sustain= 0 Release= 5 KSL=0 TL= 0 AM=1 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=2]
 
-INS=75: NoteOff1=0 PercKey=69 VelOff=0 FB=0 Conn=1 4-OP Operators:
+INS=75: NoteOff1=0 PercKey=69 VelOff=0 FB=0 Conn=1 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 7 Sustain=15 Release= 5 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 5 WaveForm=0]
   - Op1=MOD1 [Attack= 0 Decay= 0 Sustain=15 Release= 4 KSL=0 TL=63 AM=0 VIB=0 EG=0 KSR=0 FMult= 6 WaveForm=0]
 
-INS=76: NoteOff1=0 PercKey=68 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=76: NoteOff1=0 PercKey=68 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 7 Sustain=15 Release= 5 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack= 0 Decay= 0 Sustain=15 Release= 4 KSL=0 TL=63 AM=0 VIB=0 EG=0 KSR=0 FMult= 6 WaveForm=3]
 
-INS=77: NoteOff1=0 PercKey=63 VelOff=0 FB=0 Conn=1 4-OP Operators:
+INS=77: NoteOff1=0 PercKey=63 VelOff=0 FB=0 Conn=1 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 7 Sustain=15 Release= 5 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack= 0 Decay= 0 Sustain=15 Release= 4 KSL=0 TL=63 AM=0 VIB=0 EG=0 KSR=0 FMult= 6 WaveForm=0]
 
-INS=78: NoteOff1=0 PercKey=74 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=78: NoteOff1=0 PercKey=74 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 5 Sustain= 0 Release= 7 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack= 6 Decay= 7 Sustain=14 Release= 7 KSL=1 TL=24 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=79: NoteOff1=0 PercKey=60 VelOff=0 FB=0 Conn=0 4-OP Operators:
+INS=79: NoteOff1=0 PercKey=60 VelOff=0 FB=0 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay= 5 Sustain= 0 Release= 5 KSL=0 TL= 8 AM=0 VIB=1 EG=0 KSR=0 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 8 Sustain= 4 Release= 8 KSL=1 TL= 5 AM=0 VIB=1 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=80: NoteOff1=0 PercKey=80 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=80: NoteOff1=0 PercKey=80 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay=15 Sustain= 0 Release= 5 KSL=1 TL=14 AM=0 VIB=0 EG=0 KSR=1 FMult=14 WaveForm=0]
   - Op1=MOD1 [Attack=14 Decay= 0 Sustain=15 Release= 0 KSL=1 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=10 WaveForm=3]
 
-INS=81: NoteOff1=0 PercKey=64 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=81: NoteOff1=0 PercKey=64 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay=15 Sustain= 0 Release= 2 KSL=1 TL=18 AM=0 VIB=0 EG=0 KSR=1 FMult=14 WaveForm=0]
   - Op1=MOD1 [Attack=14 Decay= 0 Sustain=15 Release= 0 KSL=1 TL=60 AM=0 VIB=0 EG=0 KSR=0 FMult=10 WaveForm=3]
 
-INS=82: NoteOff1=0 PercKey=72 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=82: NoteOff1=0 PercKey=72 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 7 Decay=11 Sustain= 1 Release=11 KSL=0 TL= 8 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=2]
   - Op1=MOD1 [Attack= 7 Decay=10 Sustain= 4 Release=10 KSL=1 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult=14 WaveForm=0]
 
-INS=83: NoteOff1=0 PercKey=73 VelOff=0 FB=3 Conn=0 4-OP Operators:
+INS=83: NoteOff1=0 PercKey=73 VelOff=0 FB=3 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack= 5 Decay= 5 Sustain= 3 Release= 9 KSL=1 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 7 WaveForm=1]
   - Op1=MOD1 [Attack=14 Decay= 4 Sustain=14 Release= 4 KSL=0 TL=10 AM=0 VIB=0 EG=0 KSR=0 FMult=14 WaveForm=3]
 
-INS=84: NoteOff1=0 PercKey=70 VelOff=0 FB=7 Conn=0 4-OP Operators:
+INS=84: NoteOff1=0 PercKey=70 VelOff=0 FB=7 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=13 Decay= 6 Sustain=10 Release= 5 KSL=1 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 4 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 9 Sustain= 3 Release= 2 KSL=0 TL= 5 AM=0 VIB=0 EG=0 KSR=0 FMult= 5 WaveForm=3]
 
-INS=85: NoteOff1=0 PercKey=68 VelOff=0 FB=4 Conn=0 4-OP Operators:
+INS=85: NoteOff1=0 PercKey=68 VelOff=0 FB=4 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 7 Sustain=15 Release= 5 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 5 WaveForm=0]
   - Op1=MOD1 [Attack= 0 Decay= 0 Sustain=15 Release= 3 KSL=0 TL=63 AM=0 VIB=0 EG=0 KSR=0 FMult= 2 WaveForm=3]
 
-INS=86: NoteOff1=0 PercKey=48 VelOff=0 FB=3 Conn=1 4-OP Operators:
+INS=86: NoteOff1=0 PercKey=48 VelOff=0 FB=3 Conn=1 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 8 Sustain=11 Release= 5 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 2 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay=10 Sustain= 8 Release=13 KSL=1 TL=15 AM=0 VIB=0 EG=0 KSR=0 FMult= 1 WaveForm=0]
 
-INS=87: NoteOff1=0 PercKey=53 VelOff=0 FB=2 Conn=0 4-OP Operators:
+INS=87: NoteOff1=0 PercKey=53 VelOff=0 FB=2 Conn=0 2-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 6 Sustain= 0 Release= 6 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 6 Sustain= 0 Release=12 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=0 FMult= 0 WaveForm=0]
 
