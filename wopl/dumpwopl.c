@@ -170,7 +170,7 @@ int main(int argc, char **argv)
            "they are injected per-bit and sent to the chip (For example, the \"Total Level\" value in\n"
            "native chip's format means 0 the loudest and 63 is a sielence. In this list, they shown in\n"
            "exactly this format. Programs like OPL3 Bank Editor or SBTimbre usually show these\n"
-           "values (Sustain Rate and the Total Level) in the inverted formad for the human\n"
+           "values (Sustain Rate and the Total Level) in the inverted format for the human\n"
            "convenience to work with these values).\n");
     printf("\n\n");
     printf("====================================================================================\n");
