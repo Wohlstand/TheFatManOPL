@@ -1004,7 +1004,7 @@ INS=55: NoteOff1=0 PercKey=84 VelOff=0 FB1=7 Conn1=0 FB2=0 Conn2=0 4-OP Operator
   - Op2=CAR2 [Attack=15 Decay= 4 Sustain=10 Release= 5 KSL=0 TL= 6 AM=0 VIB=1 EG=0 KSR=0 FMult= 2 WaveForm=0]
   - Op3=MOD2 [Attack=15 Decay= 3 Sustain= 0 Release= 0 KSL=0 TL= 0 AM=1 VIB=0 EG=0 KSR=0 FMult=15 WaveForm=0]
 
-INS=56: NoteOff1=12 PercKey=59 VelOff=0 FB1=4 Conn1=0 FB2=0 Conn2=1 4-OP Operators:
+INS=56: NoteOff1=0 PercKey=83 VelOff=0 FB1=4 Conn1=0 FB2=0 Conn2=1 4-OP Operators:
   - Op0=CAR1 [Attack=15 Decay= 3 Sustain= 0 Release= 5 KSL=0 TL= 0 AM=0 VIB=0 EG=0 KSR=1 FMult= 0 WaveForm=0]
   - Op1=MOD1 [Attack=15 Decay= 8 Sustain= 3 Release= 7 KSL=1 TL= 5 AM=0 VIB=0 EG=0 KSR=1 FMult= 1 WaveForm=2]
   - Op2=CAR2 [Attack=15 Decay= 3 Sustain= 0 Release= 5 KSL=0 TL= 8 AM=0 VIB=0 EG=0 KSR=1 FMult= 0 WaveForm=0]
