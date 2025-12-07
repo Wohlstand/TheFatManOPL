@@ -26,7 +26,10 @@ These banks can be freely used, redistributed, modified under terms of the MIT l
 # Content of repository
 - **showcase** - Music examples to show how these banks sounds.
 - **wopl** - The copy of the C program to read and write WOPL files, dump their content and the full specifications of WOPL and WOPLX formats.
-- The Fat Man's 2-operator tone library, targeted to OPL2 chips that supports only the 2-operator mode. Can be used with OPL3 chip too having 18 voices instead of OPL2's 9.
+- The Fat Man's 2-operator tone library (MT-32 variant), targeted to OPL2 chips that supports only the 2-operator mode. Can be used with OPL3 chip too having 18 voices instead of OPL2's 9.
+  - **fatman-2op-mt32.wopl** - Binary WOPL variant.
+  - **fatman-2op-mt32.woplx** - Text-based WOPLX variant.
+- The Fat Man's 2-operator tone library (General MIDI variant), targeted to OPL2 chips that supports only the 2-operator mode. Can be used with OPL3 chip too having 18 voices instead of OPL2's 9.
   - **fatman-2op.wopl** - Binary WOPL variant.
   - **fatman-2op.woplx** - Text-based WOPLX variant.
   - **fatman-2op-dump.txt** - The full description of The Fat Man's 2-operator tone library's content.
