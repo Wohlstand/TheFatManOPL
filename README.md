@@ -22,6 +22,32 @@ granted the release of these banks under terms of the MIT license.
 
 These banks can be freely used, redistributed, modified under terms of the MIT license.
 
+# History
+These banks were created by American composers Kevin Weston Phelan and George
+Alistair Sanger using the Adlib Instrument Maker utility from the AdLib SDK and
+included with the Miles Sound System (initially called IBM Audio Interfaces
+Library). The Instrument Maker utility was given by John Miles to George and
+Kevin with the set of the Miles Sound System toolkit.
+
+These banks were made to simplify the music composing for developing
+"The 7'th Guest" game with the goal to use the same MIDI file per melody
+designed for all the supported sound cards. Initial variant of the bank
+developed to match the instruments layout of the MT-32 until the General MIDI
+standard released and applied to the musical instruments industry. Then, the
+bank reworked to use the General MIDI layout, and additionally, Geroge and Kevin
+developed the bank for the Roland MT-32 to simulate the General MIDI layout.
+
+Then, they gave their banks to John Miles to ship with his drivers so people
+can use these banks for the credits and the one dollar given to George. Later,
+these banks has been licensed from George's team by Yamaha and then by Microsoft,
+and later, these banks introduced in the Windows drivers (primarily in drivers
+for OPL2/OPL3-based sound cards using in Windows 9x).
+
+During November of 2025, I (Vitaliy Novichkov) contacted to Gerge through his
+email to request the MIT license, and now, these banks are officially licensed
+under terms of the MIT license and preserved in this repository here for
+everybody's usage.
+
 
 # Content of repository
 - **showcase** - Music examples to show how these banks sounds.
