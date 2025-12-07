@@ -34,8 +34,8 @@ These banks were made to simplify the music composing for developing
 designed for all the supported sound cards. Initial variant of the bank
 developed to match the instruments layout of the MT-32 until the General MIDI
 standard released and applied to the musical instruments industry. Then, the
-bank reworked to use the General MIDI layout, and additionally, Geroge and Kevin
-developed the bank for the Roland MT-32 to simulate the General MIDI layout.
+bank was reworked to use the General MIDI layout, and additionally, Geroge and
+Kevin developed the bank for the Roland MT-32 to simulate the General MIDI layout.
 
 Then, they gave their banks to John Miles to ship with his drivers so people
 can use these banks for the credits and the one dollar given to George. Later,
