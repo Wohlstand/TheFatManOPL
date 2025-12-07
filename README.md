@@ -25,11 +25,15 @@ These banks can be freely used, redistributed, modified under terms of the MIT l
 
 # Content of repository
 - **showcase** - Music examples to show how these banks sounds.
-- **wopl** - The copy of the C program to read and write WOPL files, dump their content and the full specification of WOPL format.
-- **fatman-2op.wopl** - The Fat Man's 2-operator tone library, targeted to OPL2 chips that supports only the 2-operator mode. Can be used with OPL3 chip too having 18 voices instead of OPL2's 9.
-- **fatman-2op-dump.txt** - The full description of The Fat Man's 2-operator tone library's content.
-- **fatman-4op.wopl** - The Fat Man's 4-operator tone library, targeted to OPL3 chips that supports the 4-operator mode. This bank will don't work on OPL2 chip.
-- **fatman-4op-dump.txt** - The full description of The Fat Man's 4-operator tone library's content.
+- **wopl** - The copy of the C program to read and write WOPL files, dump their content and the full specifications of WOPL and WOPLX formats.
+- The Fat Man's 2-operator tone library, targeted to OPL2 chips that supports only the 2-operator mode. Can be used with OPL3 chip too having 18 voices instead of OPL2's 9.
+  - **fatman-2op.wopl** - Binary WOPL variant.
+  - **fatman-2op.woplx** - Text-based WOPLX variant.
+  - **fatman-2op-dump.txt** - The full description of The Fat Man's 2-operator tone library's content.
+- The Fat Man's 4-operator tone library, targeted to OPL3 chips that supports the 4-operator mode. This bank will don't work on OPL2 chip.
+  - **fatman-4op.wopl** - Binary WOPL variant.
+  - **fatman-4op.wopl** - Text-based WOPLX variant.
+  - **fatman-4op-dump.txt** - The full description of The Fat Man's 4-operator tone library's content.
 - **LICENSE.txt** - The MIT license, it must be included with the copied, modified, and/or re-converted into other formats bank files.
 
 
